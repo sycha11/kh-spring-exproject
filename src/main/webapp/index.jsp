@@ -7,6 +7,7 @@
 <title>Main Page</title>
 </head>
 <body>
+	<!-- 수정되었음-->
 <center>
 	<h1>게시판 프로그램</h1>
 	<hr>
