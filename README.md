@@ -1,4 +1,3 @@
-# kh-spring-exproject
 <div align=center>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=6768ab&height=200&section=header&text=BookDream&fontSize=90" />
 
